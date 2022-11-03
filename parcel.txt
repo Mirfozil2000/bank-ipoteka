@@ -1,0 +1,5 @@
+// Установить parcel глобально
+npm install -g parcel-bundler
+
+// Собрать JS
+parcel build ./js/controller.js -d ./build
